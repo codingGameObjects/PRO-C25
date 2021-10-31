@@ -1,1 +1,1 @@
-# PRO-C25
+# pro-c25-template
